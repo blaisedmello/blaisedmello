@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/blaisedmello/blaisedmello/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
