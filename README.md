@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Blaise from Seattle<br><br>- 🔭 I’m working as SC Coordinator.<br>- 📚 I'm currently pursuing Masters' in Computer Science from University of Washington.<br>- ⚡ In my free time I cook, bake and code.</p>
+<p align="left">I'm Blaise from Seattle<br><br>- 📚 I'm currently pursuing Masters' in Computer Science from University of Washington.<br>- 🔭 I’m working as SC Coordinator.<br>- ⚡ In my free time I cook, bake and code.</p>
 
 ###
 
